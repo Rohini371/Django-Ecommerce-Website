@@ -1,4 +1,4 @@
-# Django-Ecommerce
+# Django-Ecommerce-Website
 
 Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
@@ -72,7 +72,7 @@ pip install Pillow
 
 ```python
 python manage.py createsuperuser
-Username : admin
+Username : Admin
 Password : 12345678
 ```
 # Demo
